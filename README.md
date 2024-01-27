@@ -1,2 +1,2 @@
 # mongo-golang-crud
-Golang MongoDB rest api
+Golang and  MongoDB rest api
